@@ -1,0 +1,16 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+}
+.heading{
+    color:blue;
+    font-family: 'Franklin Gothic Medium';
+}
+.timer{
+    color: red;
+    font-family: 'Franklin Gothic Medium';
+}
+button {
+    background-color: lightgreen;
+    padding: 15px 32px;
+}
